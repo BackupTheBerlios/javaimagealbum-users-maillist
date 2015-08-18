@@ -1,0 +1,25 @@
+From pauljohn32 at gmail.com  Thu Jul 19 08:39:00 2007
+From: pauljohn32 at gmail.com (Paul Johnson)
+Date: Thu, 19 Jul 2007 01:39:00 -0500
+Subject: [Javaimagealbum-users] can you double check the jai 1.1 uploads?
+Message-ID: <13e802630707182339y11e889d8qa345fb6388a21d22@mail.gmail.com>
+
+I've not heard back since July 3, so I thought maybe my first message
+did not get through.  The version of the jai 1.1 jar file on the site
+won't open for me, and I think perhaps the upload is not complete.  On
+my end, I see:
+
+[pauljohn at pols126 ~]$ ls -la javaimagealbum.jar
+-rw-rw-r-- 1 pauljohn pauljohn 411559 2007-07-04 14:04 javaimagealbum.jar
+[pauljohn at pols126 ~]$ java -jar javaimagealbum.jar
+Invalid or corrupt jarfile javaimagealbum.jar
+
+The size of the javaimagealbum.jar file matches the value on the web site...
+
+-- 
+Paul E. Johnson
+Professor, Political Science
+1541 Lilac Lane, Room 504
+University of Kansas
+
+
